@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# K-Means Unsupervised Learning
 
-explanation of the github project
+This repository contains an implementation of the K-Means unsupervised learning algorithm applied to the California Housing dataset. The goal is to explore the inherent patterns and clusters within the data to gain insights into the housing market in California.
 
 ## Content
 
@@ -12,11 +12,13 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
+Enter in `src` and explore the jupyter notebooks
 
 ## Examples
 
+Clusters created from the k-means model
 
+![Alt text](image.png)
 
 ## Project Structure
 
